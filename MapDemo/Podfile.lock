@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireActivityLogger (2.5.0):
+    - Alamofire (~> 4.7)
+  - AlamofireNetworkActivityLogger (2.4.0):
+    - Alamofire (~> 4.8)
+  - IQKeyboardManager (6.5.4)
+  - Kingfisher (5.11.0):
+    - Kingfisher/Core (= 5.11.0)
+  - Kingfisher/Core (5.11.0)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - ObjectMapper (3.5.1)
+  - Swinject (2.7.1)
+  - Toaster (2.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireActivityLogger
+  - AlamofireNetworkActivityLogger
+  - IQKeyboardManager
+  - Kingfisher
+  - NVActivityIndicatorView
+  - ObjectMapper
+  - Swinject
+  - Toaster
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireActivityLogger
+    - AlamofireNetworkActivityLogger
+    - IQKeyboardManager
+    - Kingfisher
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - Swinject
+    - Toaster
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireActivityLogger: 4dbb52cbd9a26590775df5d4d0284fa81f9b9b5b
+  AlamofireNetworkActivityLogger: 6d3398c692d2c5d83b0c58793537860aca1e383d
+  IQKeyboardManager: 72b359cd7e777e3a984cedbe05f8da45320cbb63
+  Kingfisher: 4569606189149e19c7d9439f47e885d0679b7a90
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+  Toaster: c1a81b376edcc2470157b4d1ee1e9341d3b96455
+
+PODFILE CHECKSUM: 6f740e2f9859d25778819d2e72dbfe7f70b6cfb7
+
+COCOAPODS: 1.8.4
